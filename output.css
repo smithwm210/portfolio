@@ -705,6 +705,7 @@ h6 {
 
 p {
   margin: 0 auto 1.5em auto;
+  display: inline-block;
   /* bottom margin for paragraphs */
 }
 
