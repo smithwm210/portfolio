@@ -633,7 +633,7 @@ body {
 
 a {
   font-weight: normal;
-  text-decoration: none;
+  text-decoration: underline;
   color:#EF6D3D;
 }
 
